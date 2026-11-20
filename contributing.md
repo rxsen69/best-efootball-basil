@@ -203,7 +203,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*eFootball · Updated 2026-11-19 · Shared under the MIT License*
+*eFootball · Updated 2026-11-20 · Shared under the MIT License*
 
 
-Updated 2026-11-19.
+Updated 2026-11-20.
