@@ -203,4 +203,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*eFootball · Updated 2026-11-25 · Shared under the MIT License*
+*eFootball · Updated 2026-11-26 · Shared under the MIT License*
